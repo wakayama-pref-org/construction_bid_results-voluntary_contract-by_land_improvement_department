@@ -1,5 +1,7 @@
-# construction_bid_results-voluntary_contract-by_land_improvement_department　【和歌山県　平成２８年度　随意契約結果一覧(県土整備部：工事及び工事に係る業務）です。】
-###（GitHubアカウント「Wakayama Prefecture」について）　「Wakayama Prefecture」は、オープンデータのニーズ把握や、技術者の方等との協働した地域課題の解決等のために和歌山県情報政策課が運用しているものです。
+# construction_bid_results-voluntary_contract-by_land_improvement_department
+【和歌山県　平成２８年度　随意契約結果一覧(県土整備部：工事及び工事に係る業務）です。】
+###（GitHubアカウント「Wakayama Prefecture」について）
+「Wakayama Prefecture」は、オープンデータのニーズ把握や、技術者の方等との協働した地域課題の解決等のために和歌山県情報政策課が運用しているものです。
 ### （ライセンス）
 　掲載している各種データについては、[クリエイティブ・コモンズ・ライセンス表示4.0国際](https://creativecommons.org/licenses/by/4.0/deed.ja)![クリエイティブ・コモンズ 表示 4.0 国際 ライセンス](https://licensebuttons.net/l/by/4.0/88x31.png)のもとでライセンスされています。
 ### （免責）
